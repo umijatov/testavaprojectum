@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "dbc67f50-0780-4ed7-a8e6-b237b9da3061": {
+      "label": "Black Girl Trailer",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://dn720406.ca.archive.org/0/items/black-girl-trailer-1080p/Black%20Girl%20Trailer%20%281080p%29.mp4",
+      "duration": 80
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Black Girl Trailer",
+  "created_at": "2025-10-15T20:34:16.265Z",
+  "created_by": "umijatov",
+  "updated_at": "2025-10-15T20:34:16.265Z",
+  "updated_by": "umijatov"
+}
